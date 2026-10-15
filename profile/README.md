@@ -16,6 +16,7 @@ Mais comment a-t-elle pu arriver ici ? Seuls ses souvenirs peuvent témoigner de
 Établir une organisation de ce jeu donne de nombreux avantages permettant de :  
 - Rassembler des dépôts publiques liées à Garden's Lies.
 - Lier les collaborateurs au même endroit.
+- Utiliser les Boards GitHub depuis l'organisation.
 
 ## Quels dépôts sont-ils disponibles ?
 
