@@ -1,6 +1,11 @@
 # Garden's Lies
 
-![Garden's Lies](./images/logo_jeu_raster.png)
+![Garden's Lies](./images/logo_jeu_raster.png)  
+
+Un jeu présenté par...  
+![Vibrant Synergy](./images/logo_vibrantsynergy.png)  
+
+--- 
 
 ## Synopsis du jeu
 
