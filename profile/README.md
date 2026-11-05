@@ -42,3 +42,22 @@ En tant qu'utilisateur invité, vous pouvez en créer de nouvelles annonces afin
 
 ![Garden's Lies](./images/logo_floraframework.png)
 (Dépôt privé et non disponible)
+
+## Propriété intellectuelle
+
+> [!IMPORTANT]
+> © 2025-2026 Vibrant Synergy (NoixDeXydre). Tous droits réservés.  
+> Garden's Lies, son nom, ses logos, son univers, son histoire, ses personnages (dont Midori),
+ses graphismes, ses animations, sa musique, ses sons, ses textes et son code source sont
+protégés par le droit d'auteur et, le cas échéant, par le droit des marques.  
+> Sauf mention contraire dans un dépôt, aucune licence n'est accordée : toute reproduction,
+modification, redistribution ou utilisation commerciale, totale ou partielle, est interdite
+sans autorisation écrite préalable. Cela vaut aussi pour l'entraînement de modèles d'IA et
+la création de contenus dérivés (fan-games, assets extraits, reprises de personnages.)  
+> - **Dépôts open source** : seuls les dépôts publiés avec un fichier `LICENSE` sont réutilisables,
+  dans les conditions de cette licence.
+> - **Forks de projets tiers** : ils restent sous la licence de leur auteur d'origine ; seules nos
+  modifications nous appartiennent, sous cette même licence.
+> - **Fan-art et contenus de communauté** : bienvenus pour un usage non commercial, en citant
+  Garden's Lies et sans laisser penser à un contenu officiel. Pour toute autre utilisation
+  (stream monétisé, vidéo, presse, partenariat) : noixdexydre@mailfence.com.
