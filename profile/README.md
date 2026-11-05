@@ -9,9 +9,12 @@ Un jeu présenté par...
 
 ## Synopsis du jeu
 
-Garden's Lies est un jeu vidéo d'exploration et de réflexion se déroulant dans un univers riche et luxuriant.  
-Vous y suivrez Midori, une petite fille perdue dans un monde étrange, rassurant et à la fois inquiétant, et surtout, rempli de chlorophylle.  
-Grâce à son habilité, la transformation de Mimique, l'exploration progressive au cœur de la végétation ne devrait pas poser de problème... enfin, presque.  
+Garden's Lies est un jeu vidéo d'exploration et de réflexion 
+se déroulant dans un univers riche et luxuriant.  
+Vous y suivrez Midori, une petite fille perdue dans un monde étrange, 
+rassurant et à la fois inquiétant, et surtout, rempli de chlorophylle.  
+Grâce à son habilité, la transformation de Mimique, l'exploration progressive 
+au cœur de la végétation ne devrait pas poser de problème... enfin, presque.  
 
 </br>
 Mais comment a-t-elle pu arriver ici ? Seuls ses souvenirs peuvent témoigner de la vérité...
@@ -33,8 +36,10 @@ Les dépôts sont là pour une variété de raisons :
 - Forker les dépôts tiers en lien avec les besoins actuelles.
 - Archiver des composants maintenant inutiles.
 
-En addition, un dépôt organise l'ensemble des Issues (Problèmes) de Garden's Lies à [cette adresse](https://github.com/Gardens-Lies/Gardens-Lies-Issues).  
-En tant qu'utilisateur invité, vous pouvez en créer de nouvelles annonces afin de recenser des bogues ou des suggestions.
+En addition, un dépôt organise l'ensemble des Issues (Problèmes) de Garden's Lies à 
+[cette adresse](https://github.com/Gardens-Lies/Gardens-Lies-Issues).  
+En tant qu'utilisateur invité, vous pouvez en créer de nouvelles annonces 
+afin de recenser des bogues ou des suggestions.
 
 ## Projets affiliés
 
@@ -61,3 +66,18 @@ la création de contenus dérivés (fan-games, assets extraits, reprises de pers
 > - **Fan-art et contenus de communauté** : bienvenus pour un usage non commercial, en citant
   Garden's Lies et sans laisser penser à un contenu officiel. Pour toute autre utilisation
   (stream monétisé, vidéo, presse, partenariat) : noixdexydre@mailfence.com.
+  
+## Utilisation de l'intelligence artificielle
+
+> [!IMPORTANT]
+> (En vigueur depuis le 19 janvier 2026)  
+> Garden's Lies et Flora Framework sont conçus et écrits par des humains. Des outils d'IA
+> (modèles de langage, dont Claude d'Anthropic) servent d'assistants de développement.  
+> - **Code** : sauf mention contraire dans un dépôt ou un fichier, une partie du code a pu
+  être relue, proposée ou modifiée avec l'aide d'un modèle de langage. Chaque changement
+  est relu, testé et validé par un développeur, qui en reste responsable. 
+  Si cela enfreint une règle de copyright ou d'un quelconque droit, 
+  merci d'en faire part avec l'adresse suivante : noixdexydre@mailfence.com.
+> - **Création artistique** : les graphismes, animations, musiques, sons, textes et
+  dialogues du jeu sont réalisés par des humains, sans contenu généré par IA dans le jeu
+  final.
