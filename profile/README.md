@@ -23,11 +23,14 @@ Mais comment a-t-elle pu arriver ici ? Seuls ses souvenirs peuvent témoigner de
 - Lier les collaborateurs au même endroit.
 - Utiliser les Boards GitHub depuis l'organisation.
 
+> [!NOTE]  
+> Le code source principal du jeu n'est pas exposé publiquement dans l'organisation.
+
 ## Quels dépôts sont-ils disponibles ?
 
 Les dépôts sont là pour une variété de raisons :  
 - Exposer certaines composantes du projet comme open source.
-- Forker les dépôts tiers en lien avec les beoins actuelles.
+- Forker les dépôts tiers en lien avec les besoins actuelles.
 - Archiver des composants maintenant inutiles.
 
 En addition, un dépôt organise l'ensemble des Issues (Problèmes) de Garden's Lies à [cette adresse](https://github.com/Gardens-Lies/Gardens-Lies-Issues).  
